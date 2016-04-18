@@ -1,0 +1,19 @@
+{
+  "name": "mon-projet-gulp",
+  "version": "1.0.0",
+  "description": "Un essai de projet Gulp pour me familiariser avec l'outil",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasBrosse/projet-gulp.git"
+  },
+  "author": "Nicolas Brosse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasBrosse/projet-gulp/issues"
+  },
+  "homepage": "https://github.com/NicolasBrosse/projet-gulp#readme"
+}
