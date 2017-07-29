@@ -16,7 +16,7 @@ J'ai installé [node.js](https://nodejs.org/en/) et [npm](https://www.npmjs.com/
 L'installation de node.js (et de npm) s'est faite via via un gestionnaire de package dédié à Mac que j'aime bien : [Homebrew](http://brew.sh/).
 
 ## Brackets et Atom
-[Brackets](http://brackets.io/) à pendant un an été mon éditeur de texte. Je l'ai préféré à Sublime text car plus orienté front-end.
+[Brackets](http://brackets.io/) a pendant un an été mon éditeur de texte. Je l'ai préféré à Sublime text car plus orienté front-end.
 Depuis janvier 2017, j'utilise [Atom](https://atom.io/) qui fait des merveilles également. Pas de grosses différences avec Brackets mais j'aime bien changer de temps à autres pour tester.
 
 Atom s'accompagne des mêmes "packages" que Brackets et donc j'ai retrouvé d'un éditeur à l'autre les mêmes fonctionnalités
